@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./spicilegiumcrit00boekgoog_0011.png"; bbox 0 0 3509 5509; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1032 2298 2355 2385">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1032 2298 2355 2385">
+     <span class='ocr_line' id='line_1_1' title="bbox 1032 2298 2355 2385; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1032 2298 1915 2385; x_wconf 83' lang='lat' dir='ltr'>DILECTISSIMAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1976 2299 2355 2382; x_wconf 89' lang='lat' dir='ltr'>MATRI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 721 2677 2681 2803">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 721 2677 2681 2803">
+     <span class='ocr_line' id='line_1_2' title="bbox 721 2677 2681 2803; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 721 2713 1299 2801; x_wconf 76' lang='lat' dir='ltr'>oAmsslMl</span> <span class='ocrx_word' id='word_1_4' title='bbox 1372 2715 1781 2801; x_wconf 82' lang='lat' dir='ltr'>PATRIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1842 2715 2059 2802; x_wconf 79' lang='lat' dir='ltr'>Pus</span> <span class='ocrx_word' id='word_1_6' title='bbox 2117 2677 2681 2803; x_wconf 83' lang='lat' dir='ltr'><strong>MANIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1282 4911 1944 5059">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1282 4911 1944 5059">
+     <span class='ocr_line' id='line_1_3' title="bbox 1282 4911 1944 5059; baseline -0.014 -27"><span class='ocrx_word' id='word_1_7' title='bbox 1282 5052 1286 5059; x_wconf 45' lang='grc'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1407 4911 1944 5037; x_wconf 60' lang='grc'><strong>853527</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
